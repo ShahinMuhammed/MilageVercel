@@ -1,0 +1,10 @@
+table{
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 1px solid black;
+}
+
+td,th{
+    border:1px solid black
+    
+}
